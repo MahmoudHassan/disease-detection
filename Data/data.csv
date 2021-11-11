@@ -1,0 +1,47 @@
+﻿x,y
+fever,covid
+cough,covid
+tiredness,covid
+loss of taste,covid
+loss of smell,covid
+shortness of breath,covid
+difficulty breathing,covid
+muscle aches,covid
+chills,covid
+sore throat,covid
+runny nose,covid
+headache,covid
+chest pain,covid
+pink eye,covid
+nausea,covid
+vomiting,covid
+diarrhea,covid
+rash,covid
+old_adults,covid
+fever,malaria
+chills,malaria
+old_adults,malaria
+general feeling of discomfort,malaria
+Headache,malaria
+nausea and vomiting,malaria
+diarrhea,malaria
+abdominal pain,malaria
+muscle or joint pain,malaria
+fatigue,malaria
+rapid breathing,malaria
+rapid heart rate,malaria
+cough,malaria
+polyuria,diabetes
+polydypsia,diabetes
+shortness of breath,diabetes
+pain chest,diabetes
+asthenia,diabetes
+nausea,diabetes
+orthopnea,diabetes
+rale,diabetes
+sweat sweating increased,diabetes
+unresponsiveness,diabetes
+mental status changes,diabetes
+vertigo,diabetes
+vomiting,diabetes
+labored breathing,diabetes
