@@ -43,7 +43,7 @@ if __name__ == '__main__':
     model=fit(df)
     x,name=questionnaire()
     prediction =predict(model,x)
-    print("Closest disease:")
+    print(f"Dear {name}, The closest disease:")
     print(prediction)
     
     
